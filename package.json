@@ -1,0 +1,22 @@
+{
+  "name": "tulip",
+  "version": "1.0.0",
+  "description": "opensource no sql database",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shibam-naskar/tulip.git"
+  },
+  "keywords": [
+    "database","no sql","local database","json data","tulip","json database","no sql database"
+  ],
+  "author": "Shibam Naskar",
+  "license": "ISC"
+}
