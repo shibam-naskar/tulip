@@ -13,6 +13,13 @@ npm i tulip-db
 
 ## 🚀 Usage
 
+
+Importing
+
+```
+const { createBox,getAll, addOne,deleteOne,findAll,clearBox } = require('tulip-db');
+```
+
 Create a box
 
 ```
